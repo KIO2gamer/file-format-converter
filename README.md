@@ -1,1 +1,1 @@
-very smol project of mine
+# very smol project of mine
